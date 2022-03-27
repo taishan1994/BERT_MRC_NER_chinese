@@ -23,3 +23,7 @@ python predict.py
 
 我们藏有一册１##９##４##５年６月油印的《北京文物保>存保管状态之调查报告》，调查范围涉及故宫、历博、古研所、北大清华图书馆、北图、日伪资料库等二十几家，言及文物二十>万件以上，洋洋三万余言，是珍贵的北京史料。 []
 ```
+
+# 感谢
+> https://github.com/JavaStudenttwo/BERT_MRC <br>
+> https://github.com/ShannonAI/mrc-for-flat-nested-ner
