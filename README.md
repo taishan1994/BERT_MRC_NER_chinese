@@ -1,0 +1,2 @@
+# BERT_MRC_NER_chinese
+基于bert_mrc的中文命名实体识别
