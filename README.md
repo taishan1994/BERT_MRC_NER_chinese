@@ -1,5 +1,7 @@
 # BERT_MRC_NER_chinese
 基于bert_mrc的中文命名实体识别，使用的数据集是MSRA，预训练模型是roberta。数据和训练好的模型：
+链接：https://pan.baidu.com/s/1XzoZDaZdmtwrEENBNseX5g <br>
+提取码：21v3
 	
 # 训练和验证
 ```python
