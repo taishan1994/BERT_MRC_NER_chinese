@@ -29,3 +29,8 @@ python predict.py
 # 感谢
 > https://github.com/JavaStudenttwo/BERT_MRC <br>
 > https://github.com/ShannonAI/mrc-for-flat-nested-ner
+
+# 补充
+[信息抽取三剑客：实体抽取、关系抽取、事件抽取](https://github.com/taishan1994/chinese_information_extraction)<br>
+[pytorch_bert_bilstm_crf命名实体识别](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner)<br>
+[W2NER：实体识别新sota](https://github.com/taishan1994/W2NER_predict/)<br>
