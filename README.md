@@ -34,3 +34,4 @@ python predict.py
 [信息抽取三剑客：实体抽取、关系抽取、事件抽取](https://github.com/taishan1994/chinese_information_extraction)<br>
 [pytorch_bert_bilstm_crf命名实体识别](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner)<br>
 [W2NER：实体识别新sota](https://github.com/taishan1994/W2NER_predict/)<br>
+[针对于基于阅读理解的实体识别每次只能预测一种实体，并且需要进行重复编码，ACL有这么一个模型被提出解决这些问题](https://github.com/tricktreat/piqn)
